@@ -6,8 +6,17 @@ __pycache__/
 # C extensions
 *.so
 
+
 # Distribution / packaging
 .Python
+Referencias/
+Proyectos/
+Examenes/
+ListaAlumnos/
+Modulo1_Clase/
+Modulo2_Clase/
+Modulo3_Clase/
+Tareas_Entregas/
 build/
 develop-eggs/
 dist/
